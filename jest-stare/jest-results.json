@@ -1,0 +1,137 @@
+{
+  "numFailedTestSuites": 0,
+  "numFailedTests": 0,
+  "numPassedTestSuites": 1,
+  "numPassedTests": 5,
+  "numPendingTestSuites": 0,
+  "numPendingTests": 0,
+  "numRuntimeErrorTestSuites": 0,
+  "numTodoTests": 0,
+  "numTotalTestSuites": 1,
+  "numTotalTests": 5,
+  "openHandles": [],
+  "snapshot": {
+    "added": 0,
+    "didUpdate": false,
+    "failure": false,
+    "filesAdded": 0,
+    "filesRemoved": 0,
+    "filesRemovedList": [],
+    "filesUnmatched": 0,
+    "filesUpdated": 0,
+    "matched": 0,
+    "total": 0,
+    "unchecked": 0,
+    "uncheckedKeysByFile": [],
+    "unmatched": 0,
+    "updated": 0
+  },
+  "startTime": 1664319620726,
+  "success": false,
+  "testResults": [
+    {
+      "leaks": false,
+      "numFailingTests": 0,
+      "numPassingTests": 5,
+      "numPendingTests": 0,
+      "numTodoTests": 0,
+      "openHandles": [],
+      "perfStats": {
+        "end": 1664319624574,
+        "runtime": 3370,
+        "slow": false,
+        "start": 1664319621204
+      },
+      "skipped": false,
+      "snapshot": {
+        "added": 0,
+        "fileDeleted": false,
+        "matched": 0,
+        "unchecked": 0,
+        "uncheckedKeys": [],
+        "unmatched": 0,
+        "updated": 0
+      },
+      "testFilePath": "C:\\Users\\CarlosMagana\\Documents\\Automation\\jest-supertest\\get.test.js",
+      "testResults": [
+        {
+          "ancestorTitles": [
+            "Get request using JEST and Supertest"
+          ],
+          "duration": 421,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Get request using JEST and Supertest Get user list",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 0,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Get user list"
+        },
+        {
+          "ancestorTitles": [
+            "Get request using JEST and Supertest"
+          ],
+          "duration": 467,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Get request using JEST and Supertest Create User ",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 0,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Create User "
+        },
+        {
+          "ancestorTitles": [
+            "Get request using JEST and Supertest"
+          ],
+          "duration": 421,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Get request using JEST and Supertest Update User ",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 0,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Update User "
+        },
+        {
+          "ancestorTitles": [
+            "Get request using JEST and Supertest"
+          ],
+          "duration": 437,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Get request using JEST and Supertest Delete example ",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 0,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Delete example "
+        },
+        {
+          "ancestorTitles": [
+            "Get request using JEST and Supertest"
+          ],
+          "duration": 217,
+          "failureDetails": [],
+          "failureMessages": [],
+          "fullName": "Get request using JEST and Supertest Get all the pokemons that match a color",
+          "invocations": 1,
+          "location": null,
+          "numPassingAsserts": 0,
+          "retryReasons": [],
+          "status": "passed",
+          "title": "Get all the pokemons that match a color"
+        }
+      ],
+      "failureMessage": null
+    }
+  ],
+  "wasInterrupted": false
+}
